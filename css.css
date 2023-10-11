@@ -1,0 +1,145 @@
+*{
+    /* padding:0px ;
+    margin:0px; */
+}
+
+.slideheight{
+    height: 75vh !important;;
+   
+}
+.navcontent{
+    display: flex;
+    justify-content:end;
+
+}
+.imagei{
+    height:90vh !important;
+}
+.checking{
+    display:flex;
+    flex-direction:row;
+}
+#date{
+    border-radius:7px;
+    width:100%;
+    
+    border-style:double;
+}
+.journey{
+    height:100px !important;
+}
+.sec{
+    margin-top:80px !important;
+    
+}
+.heading{
+    display:flex;
+    justify-content: center;
+}
+.track-1{
+    display:flex;
+    justify-content: space-between;
+}
+.track-2{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+}
+.progresss{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    padding:20px;
+   
+}
+.cardss{
+    display:flex;
+    justify-content:space-around;
+}
+.foot{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+    align-items: center;
+}
+.end{
+    display: flex;
+    justify-content:center;
+}
+.button1{
+    height:100px;
+    width: 100%;
+}
+.navv{
+    background-color: black !important;
+    color: aqua !important;
+}
+.a{
+    color:aqua !important;
+}
+.button2{
+  background-color: white !important;
+}
+
+.sec2{
+    background-image:linear-gradient(to right,black,grey);
+    border-radius:30px;
+    margin:20px;
+    color:aqua;
+    padding:20px;
+    
+
+    
+}
+.button3{
+    background-color:black!important;
+    color:aqua !important;
+    border-radius :30px !important;
+    
+}
+.sec3{
+    background-color:black;
+    border-radius: 50px;
+    padding:20px;
+    margin:20px;
+    max-width: 98vw;
+
+    
+}
+.details{
+    color:white;
+    font-size:40px;
+}
+.button4{
+    background-color:aqua !important;
+    color:black !important;
+    font-size: 20px !important;
+}
+.accor{
+    background-color:#fbeec1;
+}
+.schedule{
+    background-color:#bc986A!important;
+}
+.Routes{
+    background-color: aqua !important;
+}
+.back{
+    background-image:url("back.jpg");
+    background-size: cover;
+    color:chartreuse
+}
+.CB{
+    background-image: linear-gradient(to right,black,grey,black);
+    color:white !important;
+}
+.class7{
+    background-color:black;
+    color:aqua;
+}
+.h{
+    height:75vh !important;
+    max-width:99vw !important;
+}
+
+
